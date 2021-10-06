@@ -1,5 +1,5 @@
 # monkes, UI Designer
-👋 Hi im monkes, this is my github profile!, i've been buliding things since I was a kid,i always try to do better thing, and keep using new ui design trends, i've always been fascinated with programming and making things that i imagine in my mind, i like making new things everytime i can :).\
+👋 Hi im monkes, this is my github profile!, i've been buliding things since I was a kid,i always try to do better things, and keep using new ui design trends, i've always been fascinated with programming and making things that i imagine in my mind, i like making new things everytime i can :).\
 \
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=m0nkes&count_private=true&show_icons=true&theme=chartreuse-dark" />
